@@ -31,13 +31,16 @@ The objective was to extract meaningful business insights such as revenue trends
 - Total Orders
 - Total Quantity Sold
 - Average Pizzas Per Order
+  
 **📌 Trend Analysis**
 - Daily Order Trends
 - Monthly Order Trends
+  
 **📌 Category & Size Analysis**
 - Percentage of Sales by Category
 - Percentage of Sales by Size
 - Total Quantity by Category
+  
 **📌 Performance Analysis**
 - Top 5 Pizzas by Revenue
 - Bottom 5 Pizzas by Revenue
